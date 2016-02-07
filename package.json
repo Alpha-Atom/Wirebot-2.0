@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alpha-Atom/Wirebot-2.0/issues"
   },
-  "homepage": "https://github.com/Alpha-Atom/Wirebot-2.0#readme"
+  "homepage": "https://github.com/Alpha-Atom/Wirebot-2.0#readme",
+  "dependencies": {
+    "tmi.js": "0.0.24"
+  }
 }
